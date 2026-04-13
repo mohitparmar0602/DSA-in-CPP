@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0035-search-insert-position) |
 | [0724-find-pivot-index](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0724-find-pivot-index) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0342-power-of-four) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -52,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0191-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
