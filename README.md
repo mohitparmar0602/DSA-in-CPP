@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0342-power-of-four) |
 ## Bit Manipulation
@@ -67,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
