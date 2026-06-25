@@ -90,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0021-merge-two-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
