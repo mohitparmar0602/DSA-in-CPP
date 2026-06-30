@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0724-find-pivot-index) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Prefix Sum
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
