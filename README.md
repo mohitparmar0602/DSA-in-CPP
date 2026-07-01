@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0724-find-pivot-index) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0217-contains-duplicate) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String Matching
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
