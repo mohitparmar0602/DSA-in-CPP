@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0713-subarray-product-less-than-k) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
