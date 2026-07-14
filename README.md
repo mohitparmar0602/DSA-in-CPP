@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0231-power-of-two) |
