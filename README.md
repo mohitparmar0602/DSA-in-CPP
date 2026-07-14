@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0344-reverse-string) |
 ## Trie
@@ -71,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0342-power-of-four) |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
