@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0402-remove-k-digits) |
 ## Trie
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,10 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
