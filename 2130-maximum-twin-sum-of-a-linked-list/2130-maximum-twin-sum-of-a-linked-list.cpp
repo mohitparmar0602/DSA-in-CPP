@@ -19,7 +19,7 @@ public:
         }
         int max_twin_sum = 0;
         int n = result.size();
-        for(int i = 0; i < n / 2; i++){
+        for(int i = 0; i < n; i++){
             int twin_sum = result[i] + result[n - 1 - i];
             max_twin_sum = max(max_twin_sum, twin_sum);
         }
