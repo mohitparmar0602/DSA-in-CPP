@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0402-remove-k-digits) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
