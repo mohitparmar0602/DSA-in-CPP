@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0560-subarray-sum-equals-k) |
@@ -110,16 +111,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0217-contains-duplicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Hash Table
 |  |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -200,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0141-linked-list-cycle) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
