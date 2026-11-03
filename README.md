@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0746-min-cost-climbing-stairs) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/mohitparmar0602/DSA-in-CPP/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
